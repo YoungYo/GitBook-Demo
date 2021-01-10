@@ -6,6 +6,7 @@
 
 * [需求文档1](xu-qiu-wen-dang/xu-qiu-wen-dang-1.md)
 * [需求文档2](xu-qiu-wen-dang/xu-qiu-wen-dang-2.md)
+* [需求文档3](xu-qiu-wen-dang/xu-qiu-wen-dang-3.md)
 
 ## 技术文档 <a id="ji-shu-fang-an"></a>
 
